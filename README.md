@@ -2,7 +2,7 @@
 - 👀 I’m interested in PSF photometry using 
 Astropy and Photutils.psf
 - 🌱 I’m currently learning Data Analysis with Python
-- 💞️ I’m looking to collaborate on PSF phtometry
+- 💞️ I’m looking to collaborate on PSF photometry
 - 📫 How to reach me petefleurant@gmail.com 
 
 <!---
